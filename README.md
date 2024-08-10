@@ -35,7 +35,7 @@ The directory structure is as follows:
 - `tests`: Contains the test cases
     - `login.robot`: Contains the test cases for the login functionality.
 - `resources`: Contains the test keywords, locators, variables.
-      - `keywords/login.resource`: Contains the keywords for logging in and verifying error messages.
-      - `locators/login_page.resource`: Contains the elements locator of login page
-      - `variables/env_variable.py`: Contains environment configuration variables
+    - `keywords/login.resource`: Contains the keywords for logging in and verifying error messages.
+    - `locators/login_page.resource`: Contains the elements locator of login page
+    - `variables/env_variable.py`: Contains environment configuration variables
 
