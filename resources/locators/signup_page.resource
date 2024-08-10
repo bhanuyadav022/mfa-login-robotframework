@@ -1,2 +1,2 @@
 *** Variables ***
-${TOTPCODE}    //span[@id="totp"]
+${TOTPCODE}     //span[@id="totp"]
