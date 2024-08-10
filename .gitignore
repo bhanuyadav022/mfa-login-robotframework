@@ -1,0 +1,10 @@
+# robot results
+results/*
+
+# env file
+.env_test
+.env_dev
+
+# unwanted
+/resources/variables/__pycache__
+
